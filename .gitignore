@@ -3,3 +3,4 @@ venv
 env
 ./env
 consumer_errors.log
+./consumer_errors.log
