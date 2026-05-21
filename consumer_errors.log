@@ -28,3 +28,93 @@ Traceback (most recent call last):
   File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
     raise Exception("Falha após recebimento!")
 Exception: Falha após recebimento!
+
+--- 2026-05-21 20:00:00 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:00:02 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:00:04 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:00:06 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:00:08 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:01:05 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:01:07 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:01:09 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:01:11 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:01:13 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:17:11 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:17:13 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:17:15 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:17:17 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
+
+--- 2026-05-21 20:17:19 ---
+Traceback (most recent call last):
+  File "C:\Users\fdant\workspace\RabbitMQ_DSD\consumidor_amo.py", line 27, in callback
+    raise Exception("Falha após recebimento!")
+Exception: Falha após recebimento!
